@@ -57,4 +57,48 @@ To empower developers and creators by providing a collaborative hub where ideas 
 - **Discord**: [Join Here](https://discord.gg/MuZFAeVHgp)
 - **GitHub**: Explore our repositories right here in DevHub.
 
+Big shoutout to our active contributors so far ❤️
+<p align="">
+  <a href="https://github.com/calebephrem">
+    <img
+      src="https://avatars.githubusercontent.com/calebephrem"
+      width="50"
+      height="50"
+      alt="calebephrem"
+    />
+  </a>
+  <a href="https://github.com/mesygir">
+    <img
+      src="https://avatars.githubusercontent.com/mesygir"
+      width="50"
+      height="50"
+      alt="mesygir"
+    />
+  </a>
+  <a href="https://github.com/louiszn">
+    <img
+      src="https://avatars.githubusercontent.com/louiszn"
+      width="50"
+      height="50"
+      alt="louiszn"
+    />
+  </a>
+  <a href="https://github.com/imiak">
+    <img
+      src="https://avatars.githubusercontent.com/imiakk"
+      width="50"
+      height="50"
+      alt="imiakk"
+    />
+  </a>
+  <a href="https://github.com/FerasMo7ammad">
+    <img
+      src="https://avatars.githubusercontent.com/FerasMo7ammad"
+      width="50"
+      height="50"
+      alt="FerasMo7ammad"
+    />
+  </a>
+</p>
+
 _✨ Let’s build awesome projects together_
