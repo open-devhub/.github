@@ -1,104 +1,108 @@
-# 🧑‍💻 DevHub 💻
+<p align="center">
+  <h1 align="center">🧑‍💻 DevHub 💻</h1>
+  <p align="center">
+    <strong>Code. Create. Collaborate.</strong>
+  </p>
+  <p align="center">
+    The official GitHub organization for the DevHub Discord community.
+  </p>
+  <p align="center">
+    <a href="https://discord.gg/MuZFAeVHgp">
+      <img src="https://invidget.switchblade.xyz/MuZFAeVHgp?theme=dark" />
+    </a>
+  </p>
+</p>
 
-Welcome to **DevHub** — the official GitHub organization for the [DevHub Discord community](https://discord.gg/MuZFAeVHgp).
+## 🌍 About DevHub
 
-> 💻 **Code. Create. Collaborate.**
+DevHub is a collaborative space for developers and creators of all levels.
 
-DevHub is a vibrant space for developers and creators of all levels. Whether you’re:
+Whether you are:
 
-- Building your next big project
-- Seeking feedback
-- Stuck on a bug
-- Or just here to vibe with fellow coders
+- 🚀 Building your next big idea  
+- 🛠 Debugging a stubborn issue  
+- 🧠 Looking for feedback  
+- 🤝 Searching for like-minded developers  
+- 💬 Hanging out and talking tech  
+- 🎮 Gaming after a long coding session  
+- 🎨 Sharing your art, UI designs, or creative projects  
+- 🎵 Dropping music, beats, or playlists  
+- 📚 Learning something new or teaching others  
+- 🌌 Discussing random off-topic thoughts at 2AM  
 
-We’ve got you covered.
+You belong here.
 
-## 🚀 What We Do
+## 🚀 What We Build
 
-- **Open Source Projects**: Collaborative tools, bots, and libraries built by the community (member-made repositories might not be under this organization).
-- **Knowledge Sharing**: Learn, teach, and grow together.
-- **Support & Feedback**: Get help on code, design, and ideas.
-- **Networking**: Connect with developers worldwide.
+- **Open Source Projects**  
+  Community-driven tools, bots, libraries, and experiments.
 
-## 📂 Organization Structure
+- **Templates & Utilities**  
+  Starter kits and reusable resources to accelerate development.
 
-This GitHub org hosts:
+- **Documentation & Guides**  
+  Clear, beginner-friendly materials to support growth.
 
-- Community projects maintained by DevHub members (only community projects)
-- Templates, utilities, and resources for developers
-- Documentation and guides to help you get started
+> Note: Member-made repositories may exist outside this organization.
 
 ## 🤝 How to Join
 
-1. Join our Discord: [DevHub Server](https://discord.gg/MuZFAeVHgp)
-2. Introduce yourself in the community.
-3. Contribute to projects or propose new ones.
+There’s nothing to sign up for.
 
-## 📖 Community Guidelines
+Join our [Discord server](https://discord.gg/MuZFAeVHgp), introduce yourself if you’d like, and start exploring.
 
-- Be respectful and constructive.
-- Collaborate openly — feedback is welcome.
-- Keep projects well‑documented and beginner‑friendly.
-- Follow licensing terms for each repository.
+You can browse projects, join conversations, follow what interests you.
+
+... That’s it.
+
+## 📖 Community Principles
+
+- Respect first. Always.
+- Constructive feedback over criticism.
+- Keep projects documented and accessible.
+- Follow repository licensing.
 
 ## ⚡ Get Involved
 
-- Star and fork repositories you like.
-- Submit issues and pull requests.
-- Share your ideas in the Discord server.
-- Help grow the DevHub ecosystem.
+- ⭐ Star projects you support
+- 🍴 Fork and build
+- 🐛 Open issues
+- 🔁 Submit pull requests
+- 💬 Share ideas in Discord and GitHub Discussions
+
+DevHub grows when you participate.
 
 ## 🏆 Our Mission
 
-To empower developers and creators by providing a collaborative hub where ideas turn into projects, and projects turn into communities.
+To empower developers by creating a collaborative ecosystem where:
 
-## 📬 Connect
+**Ideas → Projects → Communities**
 
-- **Discord**: [Join Here](https://discord.gg/MuZFAeVHgp)
-- **GitHub**: Explore our repositories right here in DevHub.
+<p align="center">
+  <h2 align="center">💙 Contributors ❤️</h2>
+  <p align="center">
+    Huge shoutout to our <strong>active</strong> contributors so far ❤️
+  </p>
+</p>
 
-Big shoutout to our active contributors so far ❤️
-<p align="">
+<p align="center">
   <a href="https://github.com/calebephrem">
-    <img
-      src="https://avatars.githubusercontent.com/calebephrem"
-      width="50"
-      height="50"
-      alt="calebephrem"
-    />
+    <img src="https://avatars.githubusercontent.com/calebephrem" width="60" height="60" alt="calebephrem"/>
   </a>
   <a href="https://github.com/mesygir">
-    <img
-      src="https://avatars.githubusercontent.com/mesygir"
-      width="50"
-      height="50"
-      alt="mesygir"
-    />
+    <img src="https://avatars.githubusercontent.com/mesygir" width="60" height="60" alt="mesygir"/>
   </a>
   <a href="https://github.com/louiszn">
-    <img
-      src="https://avatars.githubusercontent.com/louiszn"
-      width="50"
-      height="50"
-      alt="louiszn"
-    />
+    <img src="https://avatars.githubusercontent.com/louiszn" width="60" height="60" alt="louiszn"/>
   </a>
   <a href="https://github.com/imiak">
-    <img
-      src="https://avatars.githubusercontent.com/imiakk"
-      width="50"
-      height="50"
-      alt="imiakk"
-    />
+    <img src="https://avatars.githubusercontent.com/imiakk" width="60" height="60" alt="imiakk"/>
   </a>
   <a href="https://github.com/FerasMo7ammad">
-    <img
-      src="https://avatars.githubusercontent.com/FerasMo7ammad"
-      width="50"
-      height="50"
-      alt="FerasMo7ammad"
-    />
+    <img src="https://avatars.githubusercontent.com/FerasMo7ammad" width="60" height="60" alt="FerasMo7ammad"/>
   </a>
 </p>
 
-_✨ Let’s build awesome projects together_
+<p align="center">
+  <strong>✨ Let’s build something meaningful together.</strong>
+</p>
