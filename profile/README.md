@@ -72,12 +72,6 @@ You can browse projects, join conversations, follow what interests you.
 
 DevHub grows when you participate.
 
-## 🏆 Our Mission
-
-To empower developers by creating a collaborative ecosystem where:
-
-**Ideas → Projects → Communities**
-
 <p align="center">
   <h2 align="center">💙 Contributors ❤️</h2>
   <p align="center">
@@ -89,8 +83,8 @@ To empower developers by creating a collaborative ecosystem where:
   <a href="https://github.com/calebephrem">
     <img src="https://avatars.githubusercontent.com/calebephrem" width="60" height="60" alt="calebephrem"/>
   </a>
-  <a href="https://github.com/mesygir">
-    <img src="https://avatars.githubusercontent.com/mesygir" width="60" height="60" alt="mesygir"/>
+  <a href="https://github.com/joshdegr8">
+    <img src="https://avatars.githubusercontent.com/joshdegr8" width="60" height="60" alt="joshdegr8"/>
   </a>
   <a href="https://github.com/louiszn">
     <img src="https://avatars.githubusercontent.com/louiszn" width="60" height="60" alt="louiszn"/>
@@ -100,6 +94,9 @@ To empower developers by creating a collaborative ecosystem where:
   </a>
   <a href="https://github.com/FerasMo7ammad">
     <img src="https://avatars.githubusercontent.com/FerasMo7ammad" width="60" height="60" alt="FerasMo7ammad"/>
+  </a>
+  <a href="https://github.com/AdityaKodez">
+    <img src="https://avatars.githubusercontent.com/AdityaKodez" width="60" height="60" alt="AdityaKodez"/>
   </a>
 </p>
 
