@@ -8,7 +8,7 @@
   </p>
   <p align="center">
     <a href="https://discord.gg/MuZFAeVHgp">
-      <img src="https://invidget.switchblade.xyz/MuZFAeVHgp?theme=dark" />
+      <img src="https://invidget.switchblade.xyz/MuZFAeVHgp" />
     </a>
   </p>
 </p>
