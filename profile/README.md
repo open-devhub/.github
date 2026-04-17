@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🧑‍💻 DevHub 💻</h1>
+  <h1 align="center">🧑‍💻 ✦ 𝓓𝓮𝓿𝓗𝓾𝓫 ✦ 💻</h1>
   <p align="center">
     <strong>Code. Create. Collaborate.</strong>
   </p>
@@ -80,24 +80,14 @@ DevHub grows when you participate.
 </p>
 
 <p align="center">
-  <a href="https://github.com/calebephrem">
-    <img src="https://avatars.githubusercontent.com/calebephrem" width="60" height="60" alt="calebephrem"/>
-  </a>
-  <a href="https://github.com/joshdegr8">
-    <img src="https://avatars.githubusercontent.com/joshdegr8" width="60" height="60" alt="joshdegr8"/>
-  </a>
-  <a href="https://github.com/louiszn">
-    <img src="https://avatars.githubusercontent.com/louiszn" width="60" height="60" alt="louiszn"/>
-  </a>
-  <a href="https://github.com/imiak">
-    <img src="https://avatars.githubusercontent.com/imiakk" width="60" height="60" alt="imiakk"/>
-  </a>
-  <a href="https://github.com/FerasMo7ammad">
-    <img src="https://avatars.githubusercontent.com/FerasMo7ammad" width="60" height="60" alt="FerasMo7ammad"/>
-  </a>
-  <a href="https://github.com/AdityaKodez">
-    <img src="https://avatars.githubusercontent.com/AdityaKodez" width="60" height="60" alt="AdityaKodez"/>
-  </a>
+  <a href="https://github.com/calebephrem"><img src="https://avatars.githubusercontent.com/calebephrem" width="70"/></a>
+  <a href="https://github.com/joshdegr8"><img src="https://avatars.githubusercontent.com/joshdegr8" width="70"/></a>
+  <a href="https://github.com/louiszn"><img src="https://avatars.githubusercontent.com/louiszn" width="70"/></a>
+  <!-- <br/> -->
+  <a href="https://github.com/imiakk"><img src="https://avatars.githubusercontent.com/imiakk" width="70"/></a>
+  <a href="https://github.com/FerasMo7ammad"><img src="https://avatars.githubusercontent.com/FerasMo7ammad" width="70"/></a>
+  <a href="https://github.com/AdityaKodez"><img src="https://avatars.githubusercontent.com/AdityaKodez" width="70"/></a>
+  <a href="https://github.com/anshumanjadiya1102"><img src="https://avatars.githubusercontent.com/anshumanjadiya1102" width="70"/></a>
 </p>
 
 <p align="center">
