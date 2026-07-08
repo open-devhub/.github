@@ -19,31 +19,32 @@ DevHub is a collaborative space for developers and creators of all levels.
 
 Whether you are:
 
-- 🚀 Building your next big idea  
-- 🛠 Debugging a stubborn issue  
-- 🧠 Looking for feedback  
-- 🤝 Searching for like-minded developers  
-- 💬 Hanging out and talking tech  
-- 🎮 Gaming after a long coding session  
-- 🎨 Sharing your art, UI designs, or creative projects  
-- 🎵 Dropping music, beats, or playlists  
-- 📚 Learning something new or teaching others  
-- 🌌 Discussing random off-topic thoughts at 2AM  
+- Building your next big idea
+- Debugging a stubborn issue
+- Looking for feedback
+- Searching for like-minded developers
+- Hanging out and talking tech
+- Gaming after a long coding session
+- Sharing your art, UI designs, or creative projects
+- Dropping music, beats, or playlists
+- Learning something new or teaching others
+- Discussing random off-topic thoughts at 2AM
 
 You belong here.
 
 ## 🚀 What We Build
 
-- **Open Source Projects**  
+- **Open Source Projects**
   Community-driven tools, bots, libraries, and experiments.
 
-- **Templates & Utilities**  
+- **Templates & Utilities**
   Starter kits and reusable resources to accelerate development.
 
-- **Documentation & Guides**  
+- **Documentation & Guides**
   Clear, beginner-friendly materials to support growth.
 
-> Note: Member-made repositories may exist outside this organization.
+> [!NOTE]
+> Member-made repositories may exist outside this organization.
 
 ## 🤝 How to Join
 
@@ -64,11 +65,11 @@ You can browse projects, join conversations, follow what interests you.
 
 ## ⚡ Get Involved
 
-- ⭐ Star projects you support
-- 🍴 Fork and build
-- 🐛 Open issues
-- 🔁 Submit pull requests
-- 💬 Share ideas in Discord and GitHub Discussions
+- Star projects you support
+- Fork and build
+- Open issues
+- Submit pull requests
+- Share ideas in Discord and GitHub Discussions
 
 DevHub grows when you participate.
 
